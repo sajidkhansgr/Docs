@@ -1,5 +1,4 @@
-[
-	{"id":"1","firstName":"Osborn","lastName":"Moreno","company":"BITENDREX"},
+[{"id":"1","firstName":"Osborn","lastName":"Moreno","company":"BITENDREX"},
 	{"id":"2","firstName":"Riggs","lastName":"Griffin","company":"FITCORE"},
 	{"id":"3","firstName":"Charlene","lastName":"Ortiz","company":"EARBANG"},
 	{"id":"4","firstName":"Marcie","lastName":"Cox","company":"ZILCH"},
@@ -18,5 +17,4 @@
 	{"id":"17","firstName":"Sajid 6","lastName":"Ali 6","company":"company 6"},
 	{"id":"18","firstName":"Sajid 6","lastName":"Ali 6","company":"company 6"},
 	{"id":"19","firstName":"Sajid 6","lastName":"Ali 6","company":"company 6"},
-	{"id":"20","firstName":"Jillee 6","lastName":"Y 6","company":"company 6"}
-]
+	{"id":"20","firstName":"Jillee 6","lastName":"Y 6","company":"company 6"}]
